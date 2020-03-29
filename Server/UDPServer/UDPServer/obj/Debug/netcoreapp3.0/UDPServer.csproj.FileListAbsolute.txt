@@ -1,0 +1,11 @@
+D:\workspace\godot32\projects\Server\UDPServer\UDPServer\bin\Debug\netcoreapp3.0\UDPServer.exe
+D:\workspace\godot32\projects\Server\UDPServer\UDPServer\bin\Debug\netcoreapp3.0\UDPServer.deps.json
+D:\workspace\godot32\projects\Server\UDPServer\UDPServer\bin\Debug\netcoreapp3.0\UDPServer.runtimeconfig.json
+D:\workspace\godot32\projects\Server\UDPServer\UDPServer\bin\Debug\netcoreapp3.0\UDPServer.runtimeconfig.dev.json
+D:\workspace\godot32\projects\Server\UDPServer\UDPServer\bin\Debug\netcoreapp3.0\UDPServer.dll
+D:\workspace\godot32\projects\Server\UDPServer\UDPServer\bin\Debug\netcoreapp3.0\UDPServer.pdb
+D:\workspace\godot32\projects\Server\UDPServer\UDPServer\obj\Debug\netcoreapp3.0\UDPServer.csprojAssemblyReference.cache
+D:\workspace\godot32\projects\Server\UDPServer\UDPServer\obj\Debug\netcoreapp3.0\UDPServer.AssemblyInfoInputs.cache
+D:\workspace\godot32\projects\Server\UDPServer\UDPServer\obj\Debug\netcoreapp3.0\UDPServer.AssemblyInfo.cs
+D:\workspace\godot32\projects\Server\UDPServer\UDPServer\obj\Debug\netcoreapp3.0\UDPServer.dll
+D:\workspace\godot32\projects\Server\UDPServer\UDPServer\obj\Debug\netcoreapp3.0\UDPServer.pdb
